@@ -1,0 +1,6 @@
+[submodule "qtbase"]
+	path = qtbase
+	url = https://github.com/luminartech/qtbase.git
+[submodule "qtgamepad"]
+	path = qtgamepad
+	url = https://github.com/luminartech/qtgamepad.git
